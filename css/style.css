@@ -92,7 +92,6 @@ main {
     background: #F1F3F5;
     border-radius: 12px;
     display: block;
-    margin-bottom: 12px;
     padding: 14px 18px;
     text-decoration: none;
     transition: transform 0.2s, box-shadow 0.2s;
@@ -107,7 +106,7 @@ main {
 #search-result p {
     color: #666666;
     font-size: 0.8rem;
-    margin: 4px 0 0 0;
+    margin: 0 0 12px 0;
 }
 
 #search-result a:hover {

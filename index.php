@@ -5,11 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="検索履歴を世界中で共有しよう。">
-    <title>検索</title>
+    <title>ニコニコ 検索</title>
+    <!-- Favicon -->
+    <link rel="icon" href="/product/search/favicon.ico">
+    <?php include('../../include/head.php'); ?>
     <!-- D3.js -->
     <script src="https://d3js.org/d3.v3.min.js"></script>
     <!-- CSS -->
-    <link rel="stylesheet" href="/product/search/css/reset.css">
     <link rel="stylesheet" href="/product/search/css/style.css">
     <!-- JavaScript -->
     <script src="/product/search/js/main.js"></script>
@@ -19,8 +21,8 @@
     <main>
         <div class="search">
             <h1>
-                <span class="blue">あ</span><span class="red">ざ</span><span class="yellow">ら</span><span
-                    class="blue">し</span> <span class="green">検</span><span class="red">索</span>
+                <span class="blue">ニ</span><span class="red">コ</span><span class="yellow">ニ</span><span
+                    class="blue">コ</span> <span class="green">検</span><span class="red">索</span>
             </h1>
             <div class="container">
                 <form class="form" method="post"
