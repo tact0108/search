@@ -38,6 +38,10 @@
             <div id="words" class="words"></div>
         </div>
     </main>
+    <div class="byline">
+        <i>powered by</i>
+        <a href="https://ja.wikipedia.org/" target="_blank" rel="noopener noreferrer">Wikipedia</a>
+    </div>
 </body>
 
 </html>
