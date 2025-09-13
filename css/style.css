@@ -158,6 +158,10 @@ main {
 
 /* レスポンシブ */
 @media (max-width: 480px) {
+    main {
+        padding: 10px 10px 0 10px;
+    }
+
     .search {
         border-radius: 15px;
         padding: 25px 20px;
